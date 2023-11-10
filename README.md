@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![233050](<img align="center" alt="Rico-PHP" height="300" width="300" src="(https://github.com/oerlabshenrique/lpo/assets/108233457/3968da7f-87e1-4434-a7fc-4a504e867556)(https://github.com/oerlabshenrique/lpo/assets/108233457/3968da7f-87e1-4434-a7fc-4a504e867556)"/>
-
 ## ⚡ LPO - Levantamento de Peso 👋
 
 
