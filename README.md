@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## ⚡ LPO - Levantamento de Peso 👋
+## ⚡ LPO - Levantamento de Peso 👋 pow
 
 
  
